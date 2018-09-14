@@ -9,3 +9,14 @@ E:\CSharpAdvanced\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSys
 E:\CSharpAdvanced\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.AssemblyInfo.cs
 E:\CSharpAdvanced\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.dll
 E:\CSharpAdvanced\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.pdb
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\bin\Debug\netcoreapp2.0\VotingSystem1.2.deps.json
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\bin\Debug\netcoreapp2.0\VotingSystem1.2.runtimeconfig.json
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\bin\Debug\netcoreapp2.0\VotingSystem1.2.runtimeconfig.dev.json
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\bin\Debug\netcoreapp2.0\VotingSystem1.2.dll
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\bin\Debug\netcoreapp2.0\VotingSystem1.2.pdb
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.csprojAssemblyReference.cache
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.AssemblyInfo.cs
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.dll
+E:\CSharpAdvanced\VotingSystem1.2\VotingSystem\VotingSystem1.2\obj\Debug\netcoreapp2.0\VotingSystem1.2.pdb

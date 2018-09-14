@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpAdvanced\\VotingSystem\\VotingSystem1.2\\VotingSystem1.2.csproj",
+      "projectUniqueName": "E:\\CSharpAdvanced\\VotingSystem1.2\\VotingSystem\\VotingSystem1.2\\VotingSystem1.2.csproj",
       "projectName": "VotingSystem1.2",
-      "projectPath": "E:\\CSharpAdvanced\\VotingSystem\\VotingSystem1.2\\VotingSystem1.2.csproj",
+      "projectPath": "E:\\CSharpAdvanced\\VotingSystem1.2\\VotingSystem\\VotingSystem1.2\\VotingSystem1.2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpAdvanced\\VotingSystem\\VotingSystem1.2\\obj\\",
+      "outputPath": "E:\\CSharpAdvanced\\VotingSystem1.2\\VotingSystem\\VotingSystem1.2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
